@@ -1,9 +1,50 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+.conatiner {
+    width: 100%;;
+}
+section {
+    height: 600px;
+}
+.top-banner {
+    background-image: url(images/header-bg.png);
+
+}
 h1 {
     font-size: 50px;;
 }
 .name-marked {
     color: orange;
 }
+.header-area {
+    width: 50%;
+    float: left;
+    padding-left: 12%;
+}
+.header-image {
+    float: left;
+    padding-left: 3%;
+}
+
+.header-image img {
+    width: 100%;
+}
+.header-area p {
+    padding-bottom: 20px;
+}
+
+a.link-button {
+    text-decoration: none;
+    font-size: 19px;
+    /* background: orange; */
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+}
+
+/* Paddin hisab  */
+
