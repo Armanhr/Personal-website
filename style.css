@@ -15,11 +15,11 @@ section {
 h1 {
     font-size: 50px;;
 }
-.name-marked {
+.orange-highlight {
     color: orange;
 }
 
-.half-width h1, h3, p{
+.half-width h1, h2, h3, p{
     padding-left: 10%;
 }
 
